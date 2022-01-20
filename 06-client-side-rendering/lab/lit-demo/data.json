@@ -1,0 +1,26 @@
+[
+    {
+        "title": "First Article",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum odit ex sunt obcaecati, nesciunt numquam est doloremque modi dicta commodi et minima fugit dolorum dolore harum aperiam eveniet vel impedit quibusdam veniam inventore distinctio! Illum, dolore iste blanditiis iure cupiditate voluptatum similique magnam placeat at facere laudantium veritatis vitae aspernatur dicta ad asperiores nemo ut nam, quibusdam aliquid est ducimus explicabo exercitationem adipisci. Veritatis, repellendus ut voluptatem quod quibusdam ullam, nisi, velit hic veniam adipisci assumenda. Quam dolore voluptate provident ipsam blanditiis ullam odit officiis voluptates, ducimus doloremque nisi dolor perferendis rem minus eligendi deleniti perspiciatis? Atque necessitatibus laudantium eaque.",
+        "author": "John Smith",
+        "color": "red",
+        "disabled": false,
+        "comments": []
+    },
+    {
+        "title": "Second Article",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum odit ex sunt obcaecati, nesciunt numquam est doloremque modi dicta commodi et minima fugit dolorum dolore harum aperiam eveniet vel impedit quibusdam veniam inventore distinctio! Illum, dolore iste blanditiis iure cupiditate voluptatum similique magnam placeat at facere laudantium veritatis vitae aspernatur dicta ad asperiores nemo ut nam, quibusdam aliquid est ducimus explicabo exercitationem adipisci. Veritatis, repellendus ut voluptatem quod quibusdam ullam, nisi, velit hic veniam adipisci assumenda. Quam dolore voluptate provident ipsam blanditiis ullam odit officiis voluptates, ducimus doloremque nisi dolor perferendis rem minus eligendi deleniti perspiciatis? Atque necessitatibus laudantium eaque.",
+        "author": "Peter Johnson",
+        "color": "green",
+        "disabled": true,
+        "comments": []
+    },
+    {
+        "title": "Third Article",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum odit ex sunt obcaecati, nesciunt numquam est doloremque modi dicta commodi et minima fugit dolorum dolore harum aperiam eveniet vel impedit quibusdam veniam inventore distinctio! Illum, dolore iste blanditiis iure cupiditate voluptatum similique magnam placeat at facere laudantium veritatis vitae aspernatur dicta ad asperiores nemo ut nam, quibusdam aliquid est ducimus explicabo exercitationem adipisci. Veritatis, repellendus ut voluptatem quod quibusdam ullam, nisi, velit hic veniam adipisci assumenda. Quam dolore voluptate provident ipsam blanditiis ullam odit officiis voluptates, ducimus doloremque nisi dolor perferendis rem minus eligendi deleniti perspiciatis? Atque necessitatibus laudantium eaque.",
+        "author": "Marie Curie",
+        "color": "blue",
+        "disabled": false,
+        "comments": []
+    }
+]
