@@ -6,6 +6,8 @@ server.js
 .jpg
 .jpeg
 .svg
+.png
+.gif
 
 # compiled output
 /dist
